@@ -2,17 +2,9 @@
 1. **Build Prefix Sum Array:**
    1. Create a new array prefix[] where:
 
-swift
-
-CopyEdit
-
 prefix[i] = arr[0] + arr[1] + ... + arr[i]
 
 1. In other words:
-
-swift
-
-CopyEdit
 
 prefix[0] = arr[0]
 prefix[i] = prefix[i-1] + arr[i]
@@ -23,8 +15,6 @@ prefix[i] = prefix[i-1] + arr[i]
 
 ## **💻 Java Program:**
 java
-
-CopyEdit
 
 public class PrefixSumRange {
 
