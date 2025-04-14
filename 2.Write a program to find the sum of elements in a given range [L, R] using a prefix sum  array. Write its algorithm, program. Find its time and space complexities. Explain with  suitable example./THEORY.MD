@@ -5,7 +5,6 @@
 prefix[i] = arr[0] + arr[1] + ... + arr[i]
 
 1. In other words:
-
 prefix[0] = arr[0]
 prefix[i] = prefix[i-1] + arr[i]
 
