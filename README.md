@@ -1,7 +1,7 @@
 # MTE--ASSIGNMENT-SURAJ-YADAV
 
-📦 Assignment-Answers Repository Structure
-README.md — Overview of the project, usage instructions, and credits.
+📦Answers Repository Structure
+README.md — Overview of the Assignment Repository Structure , usage instructions.
 
 Questions/
 
